@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background: linear-gradient(135deg, #442442, #6359d4, #112340) !important; */
+  background: #5D0E41;
+  color: white !important;
+  overflow-x: hidden !important;
+  width: 100vw !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .techstack{
+  color: #c24dd0;
+  border: 2px solid #c24dd0;
+  padding: 0.5rem 2rem;
+} */
+
+.techstack{
+  color: #5D0E41;
+  border: 2px solid #F29F58;
+  padding: 0.5rem 2rem;
+}
+
+.customButton{
+  /* background-image: linear-gradient(150deg, #c24dd0, #7a72fa);; */
+  background-color: #A0153E !important;
+  color: white !important;
+}
+
+.customButton:hover{
+  background-color: #FF204E !important;
+  color: white !important;
+}
+
+.customButton:disabled{
+  background-color: #5c5c5c !important;
+  color: white !important;
+}

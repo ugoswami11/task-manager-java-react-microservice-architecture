@@ -1,0 +1,31 @@
+.card{
+    background-color: #00224D !important;
+    box-shadow: rgba(41, 26, 128, 0.507) 0px 0px 20px !important;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.menuItem{
+    border: 2px solid #FF204E;
+}
+
+.activeMenuItem{
+    /* background-image: linear-gradient(150deg, #c24dd0, #7a72fa); */
+    background-color: #FF204E !important;
+    color: white;
+}
+
+.logoutButton{
+    color: white !important;
+    background-color: #A0153E !important;
+}
+
+.logoutButton:hover{
+    background-color: #FF204E !important;
+}
+
+/* .customButton{
+    background-image: linear-gradient(150deg, #c24dd0, #7a72fa);;
+    background-color: #FF204E !important;
+    color: white;
+} */
