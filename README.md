@@ -12,9 +12,9 @@ A task manager web app build using java spring boot, MySQL and React in a micros
 - Admin can view unassigned, assigned tasks by navigating to respective tabs.
 - Admin can also view the task moved to Done when admin accept a submission.
 
-### Preview
+<!-- ### Preview
 
-[Watch the video here !](./preview/TASK%20MANAGER%20APP.mp4)
+[Watch the video here !](./preview/TASK%20MANAGER%20APP.mp4) -->
 
 
 ### Developed with
